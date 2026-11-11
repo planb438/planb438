@@ -5,7 +5,7 @@
 I harden Kubernetes clusters for small teams that don't have a security engineer:
 fixed price, fixed scope, a 1-page report with your top 10 fixes, then I can implement them.
 
-**Need this for your team?** cloudkanata@gmail.com · [LinkedIn](https://www.linkedin.com/in/adari-bain-298924152/)
+**Need this for your team?** cloudkanata@gmail.com · [LinkedIn](https://www.linkedin.com/in/adaribain)
 
 ## What I build
 
